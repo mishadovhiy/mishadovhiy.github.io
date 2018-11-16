@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1360px" height="500px" viewBox="0 0 1360 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>back copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="back-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1360" height="500"></rect>
+        <g id="sky-2" opacity="0.353025" transform="translate(-215.000000, -180.000000)" fill-rule="nonzero">
+            <g id="sky">
+                <polygon id="Triangle-Copy" fill="#EAF5F5" transform="translate(196.275367, 281.294041) scale(-1, 1) translate(-196.275367, -281.294041) " points="212.972186 174 253.550734 388.588081 139 336.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#EAF5F5" transform="translate(364.275367, 336.294041) scale(-1, 1) translate(-364.275367, -336.294041) " points="380.972186 229 421.550734 443.588081 307 391.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#EAF5F5" transform="translate(297.640936, 356.132996) scale(-1, 1) translate(-297.640936, -356.132996) " points="247.703323 229 288.281872 443.588081 347.578549 483.265991"></polygon>
+                <polygon id="Triangle-Copy" fill="#CDE1E1" transform="translate(381.806424, 419.091018) scale(-1, 1) translate(-381.806424, -419.091018) " points="307 446.697532 456.612848 443.588081 342.062113 391.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#CDE1E1" transform="translate(381.806424, 454.294041) scale(-1, 1) translate(-381.806424, -454.294041) " points="307 446.697532 456.612848 443.588081 453.226505 465"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(458.263284, 394.421655) scale(-1, 1) translate(-458.263284, -394.421655) " points="459.913721 446.697532 421.550734 342.145778 494.975835 391.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(478.749512, 394.421655) scale(-1, 1) translate(-478.749512, -394.421655) " points="500.886177 446.697532 462.52319 342.145778 456.612848 380.632197 471.671203 408.166581"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(478.749512, 413.664865) scale(-1, 1) translate(-478.749512, -413.664865) " points="500.886177 446.697532 471.671203 446.697532 456.612848 424.915172 456.612848 380.632197 471.671203 408.166581"></polygon>
+                <polygon id="Triangle-Copy" fill="#E3F7F7" transform="translate(392.318426, 310.242252) scale(-1, 1) translate(-392.318426, -310.242252) " points="437.058304 229 347.578549 259.812449 363.086118 391.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#E0F3F3" transform="translate(387.574796, 221.859334) scale(-1, 1) translate(-387.574796, -221.859334) " points="427.571044 229 338.091288 259.812449 437.058304 183.906218"></polygon>
+                <polygon id="Triangle-Copy" fill="#DDF1F1" transform="translate(400.715561, 221.859334) scale(-1, 1) translate(-400.715561, -221.859334) " points="338.091288 207.062018 364.372818 259.812449 463.339833 183.906218"></polygon>
+                <polygon id="Triangle-Copy" fill="#C7E2E2" transform="translate(485.511783, 300.859340) scale(-1, 1) translate(-485.511783, -300.859340) " points="526.536306 311.093782 437.056551 341.90623 533.967016 259.812449"></polygon>
+                <polygon id="Triangle-Copy" fill="#D0DDDD" transform="translate(432.966118, 325.619252) scale(-1, 1) translate(-432.966118, -325.619252) " points="421.444976 311.093782 444.48726 391.426056 428.875685 259.812449"></polygon>
+                <polygon id="Triangle-Copy" fill="#D8E5E5" transform="translate(458.212047, 351.259919) scale(-1, 1) translate(-458.212047, -351.259919) " points="471.936834 311.093782 494.979119 391.426056 421.444976 328.603207"></polygon>
+                <polygon id="Triangle-Copy" fill="#E4EEEE" transform="translate(458.212047, 360.014632) scale(-1, 1) translate(-458.212047, -360.014632) " points="421.444976 342.145778 494.979119 391.426056 421.444976 328.603207"></polygon>
+                <polygon id="Triangle-Copy" fill="#E4EEEE" transform="translate(514.386318, 335.374493) scale(-1, 1) translate(-514.386318, -335.374493) " points="533.793517 342.145778 494.979119 341.567016 533.793517 328.603207"></polygon>
+                <polygon id="Triangle-Copy" fill="#E5F6F6" points="203.413652 229.390606 243.992201 443.978688 129.441467 391.87511"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="861.78143 283.533391 885.404888 276.765711 903.20162 291.097732 967.022121 245 959.700811 307.266695 1030.90825 314.832994 1093.80179 314.832994 1125.78143 283.533391 1148 330.955454 1125.78143 369.533391 1056.20676 344.598917 991.881765 360.679169 940.673606 344.598917 861.78143 369.533391 835.76353 335.194124"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="1427 358.442881 1446.91565 330.565739 1461.19716 344.349787 1485.99216 326 1492.03941 354.864944 1557.56067 330.565739 1593.34131 348.622479 1640 358.442881 1640 407.442881 1611.58593 376.962299 1580.09089 391.658735 1529.50659 368.508407 1546.55152 412.144868 1492.03941 397.458165 1477.71088 384.588659 1454.278 391.658735 1427 407.442881"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="1201 211.629764 1246.44351 195 1273.31702 211.629764 1304.74329 203.096373 1326.70312 214.925794 1374 211.629764 1360.56982 227.693651 1374 249.629764 1339.73382 243.952293 1295.25635 249.629764 1239.97943 234.862084 1201 249.629764 1216.03033 227.693651"></polygon>
+                <polygon id="Rectangle-Copy-3" fill="#FFFFFF" points="486 408.212558 501.030332 380.429393 559.422234 355 611.70312 371.60613 659 408.212558 645.569822 424.276446 659 446.212558 624.733823 440.535088 580.256347 446.212558 528.937839 446.212558 486 446.212558 501.030332 424.276446"></polygon>
+                <polygon id="Rectangle" fill="#FFFFFF" points="186.826443 312.422063 277.081593 296.299603 317.748705 316.660734 382 311 382 351 317.748705 383.458615 207.125136 377.777033 115 351"></polygon>
+                <polygon id="Triangle-Copy" fill="#EAF5F5" transform="translate(783.831779, 314.294041) scale(-1, 1) translate(-783.831779, -314.294041) " points="800.528597 207 841.107146 421.588081 726.556412 369.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#EAF5F5" transform="translate(716.494024, 334.132996) scale(-1, 1) translate(-716.494024, -334.132996) " points="666.556412 207 707.13496 421.588081 766.431637 461.265991"></polygon>
+                <polygon id="Triangle-Copy" fill="#CDE1E1" transform="translate(801.362835, 396.606514) scale(-1, 1) translate(-801.362835, -396.606514) " points="726.556412 424.213029 876.169259 421.103578 761.618525 369"></polygon>
+                <polygon id="Triangle-Copy" fill="#CDE1E1" transform="translate(801.362835, 431.705959) scale(-1, 1) translate(-801.362835, -431.705959) " points="726.556412 424.109451 876.169259 421 872.782916 442.411919"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(877.268962, 372.275877) scale(-1, 1) translate(-877.268962, -372.275877) " points="878.919398 424.551754 840.556412 320 913.981512 369.338725"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(897.693076, 372.275877) scale(-1, 1) translate(-897.693076, -372.275877) " points="919.829741 424.551754 881.466754 320 875.556412 358.486419 890.614767 386.020803"></polygon>
+                <polygon id="Triangle-Copy" fill="#DEE9E9" transform="translate(897.693076, 392.032668) scale(-1, 1) translate(-897.693076, -392.032668) " points="919.829741 425.065335 890.614767 425.065335 875.556412 403.282975 875.556412 359 890.614767 386.534384"></polygon>
+                <polygon id="Triangle-Copy" fill="#E3F7F7" transform="translate(811.296289, 288.242252) scale(-1, 1) translate(-811.296289, -288.242252) " points="856.036167 207 766.556412 237.812449 782.063981 369.484504"></polygon>
+                <polygon id="Triangle-Copy" fill="#E0F3F3" transform="translate(807.039919, 199.953115) scale(-1, 1) translate(-807.039919, -199.953115) " points="847.036167 207.093782 757.556412 237.90623 856.523427 162"></polygon>
+                <polygon id="Triangle-Copy" fill="#DDF1F1" transform="translate(820.180684, 199.953115) scale(-1, 1) translate(-820.180684, -199.953115) " points="757.556412 185.1558 783.837941 237.90623 882.804957 162"></polygon>
+                <polygon id="Triangle-Copy" fill="#C7E2E2" transform="translate(905.011644, 279.046891) scale(-1, 1) translate(-905.011644, -279.046891) " points="946.036167 289.281333 856.556412 320.093782 953.466876 238"></polygon>
+                <polygon id="Triangle-Copy" fill="#D0DDDD" transform="translate(852.077554, 303.806804) scale(-1, 1) translate(-852.077554, -303.806804) " points="840.556412 289.281333 863.598696 369.613607 847.987121 238"></polygon>
+                <polygon id="Triangle-Copy" fill="#D8E5E5" transform="translate(877.323483, 329.166137) scale(-1, 1) translate(-877.323483, -329.166137) " points="891.04827 289 914.090555 369.332274 840.556412 306.509426"></polygon>
+                <polygon id="Triangle-Copy" fill="#E4EEEE" transform="translate(877.323483, 337.411424) scale(-1, 1) translate(-877.323483, -337.411424) " points="840.556412 319.542571 914.090555 368.822848 840.556412 306"></polygon>
+                <polygon id="Triangle" fill="#EAE7E7" transform="translate(1090.218952, 482.768301) scale(-1, -1) translate(-1090.218952, -482.768301) " points="1085.05702 344.29603 1187.69316 504.787548 992.744744 621.240571"></polygon>
+                <polygon id="Triangle-Copy-17" fill="#ECEBEB" transform="translate(1242.909799, 558.232015) scale(-1, -1) translate(-1242.909799, -558.232015) " points="1095.12644 449.464029 1390.69316 495.383076 1121.46599 667"></polygon>
+                <polygon id="Triangle-Copy-10" fill="#DBDEE8" transform="translate(1184.839136, 259.106213) scale(-1, -1) translate(-1184.839136, -259.106213) " points="1184.58873 173.212427 1295.20788 342.543295 1074.47039 345"></polygon>
+                <polygon id="Triangle-Copy-14" fill="#D1D4DE" transform="translate(1419.879265, 205.789022) scale(-1, -1) translate(-1419.879265, -205.789022) " points="1416.66293 167.578045 1621.69316 244 1218.06537 241.527515"></polygon>
+                <polygon id="Triangle-Copy" fill="#EAEAE7" transform="translate(1090.218952, 365.775102) scale(-1, -1) translate(-1090.218952, -365.775102) " points="1175.68896 461 1187.69316 270.550205 992.744744 387.003227"></polygon>
+                <polygon id="Triangle-Copy-2" fill="#EAE9E2" transform="translate(926.997405, 360.914076) scale(-1, -1) translate(-926.997405, -360.914076) " points="1004.69316 461 861.084268 260.828152 849.301649 450.854742"></polygon>
+                <polygon id="Triangle-Copy-12" fill="#EAE8E7" transform="translate(973.226016, 221.454328) scale(-1, -1) translate(-973.226016, -221.454328) " points="1076.69316 267.922417 942.209994 171.908656 869.758871 271"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#E7E5DE" transform="translate(897.241483, 359.127159) scale(-1, -1) translate(-897.241483, -359.127159) " points="992.69316 307.457064 801.789805 259.254317 944.306667 459"></polygon>
+                <polygon id="Triangle" fill="#E0E4F4" transform="translate(1204.102580, 519.616906) scale(-1, -1) rotate(30.000000) translate(-1204.102580, -519.616906) " points="1247.50711 377.435055 1308.60258 661.798756 1099.60258 661.798756"></polygon>
+                <polygon id="Triangle-Copy-15" fill="#E4E7EF" transform="translate(1493.004866, 448.431657) scale(-1, -1) rotate(30.000000) translate(-1493.004866, -448.431657) " points="1380.64523 333.667677 1605.36451 383.52098 1407.64834 563.195637"></polygon>
+                <polygon id="Triangle-Copy-6" fill="#D9DBDF" transform="translate(1325.915424, 304.469657) scale(-1, -1) rotate(30.000000) translate(-1325.915424, -304.469657) " points="1418.09995 411.025819 1430.41542 197.913495 1221.41542 197.913495"></polygon>
+                <polygon id="Triangle-Copy-9" fill="#E2E4EC" transform="translate(1117.456173, 267.401907) scale(-1, -1) rotate(30.000000) translate(-1117.456173, -267.401907) " points="1202.68071 326.673878 1213.99029 208.129936 1020.92205 234.612885"></polygon>
+                <polygon id="Triangle-Copy-7" fill="#D1D4DE" transform="translate(1338.170610, 295.289815) scale(-1, -1) rotate(30.000000) translate(-1338.170610, -295.289815) " points="1436.51287 387.690837 1308.88627 416.001116 1239.82835 174.578513"></polygon>
+                <polygon id="Triangle-Copy-16" fill="#F1F0F0" transform="translate(1417.215227, 581.179286) scale(-1, -1) rotate(30.000000) translate(-1417.215227, -581.179286) " points="1528.88778 668.822892 1305.54267 619.303284 1397.27384 493.53568"></polygon>
+                <polygon id="Triangle-Copy-13" fill="#E7E8EB" transform="translate(1527.443289, 247.708605) scale(-1, -1) rotate(30.000000) translate(-1527.443289, -247.708605) " points="1642 229.915908 1519.79278 337.790303 1412.88658 157.626907"></polygon>
+                <polygon id="Triangle-Copy-8" fill="#D9DDE8" transform="translate(1471.628349, 373.402125) scale(-1, -1) rotate(30.000000) translate(-1471.628349, -373.402125) " points="1597.85932 492.893298 1345.39738 412.880765 1528.16111 253.910953"></polygon>
+                <polygon id="Triangle-Copy-11" fill="#E7EAE7" transform="translate(916.848677, 250.770591) scale(-1, -1) rotate(30.000000) translate(-916.848677, -250.770591) " points="831.070573 277.215414 970.410387 207.65366 1002.62678 293.887521"></polygon>
+                <polygon id="Triangle" fill="#E9E4E4" transform="translate(664.188585, 479.851985) scale(-1, -1) translate(-664.188585, -479.851985) " points="660.480076 340 761.662793 503.250947 566.714377 619.70397"></polygon>
+                <polygon id="Triangle-Copy-10" fill="#EAE7E7" transform="translate(757.028272, 257.210978) scale(-1, -1) translate(-757.028272, -257.210978) " points="755.317994 173 864.342167 341.421955 649.714377 335.972988"></polygon>
+                <polygon id="Triangle-Copy-10" fill="#E9E5DE" transform="translate(811.540358, 275.739227) scale(-1, -1) translate(-811.540358, -275.739227) " points="864.342167 210.056499 807.535095 178.448968 773.061315 291.666006 758.73855 373.029487"></polygon>
+                <polygon id="Triangle-Copy" fill="#F5E5E5" transform="translate(664.188585, 361.535758) scale(-1, -1) translate(-664.188585, -361.535758) " points="750.292319 457.449795 761.662793 265.621722 566.714377 382.074744"></polygon>
+                <polygon id="Triangle-Copy-2" fill="#EAE7E7" transform="translate(501.410132, 357.085924) scale(-1, -1) translate(-501.410132, -357.085924) " points="579.105888 457.171848 435.496996 257 423.714377 447.02659"></polygon>
+                <polygon id="Triangle-Copy-12" fill="#F3E1E1" transform="translate(547.181521, 218.526209) scale(-1, -1) translate(-547.181521, -218.526209) " points="650.648666 265.974835 516.46416 168 443.714377 269.052418"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#EAEAE7" transform="translate(471.166054, 354.872841) scale(-1, -1) translate(-471.166054, -354.872841) " points="566.617731 303.202747 375.714377 255 518.231239 454.745683"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#E7E9EA" transform="translate(379.607132, 286.865270) scale(-1, -1) translate(-379.607132, -286.865270) " points="383.499888 167.187603 424.10087 406.542936 335.113395 318.730539"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#E4E5EB" transform="translate(288.163895, 286.865270) scale(-1, -1) translate(-288.163895, -286.865270) " points="200.613413 167.187603 241.214395 406.542936 375.714377 277.430936"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#E7E9EA" transform="translate(219.886792, 148.149802) scale(-1, -1) translate(-219.886792, -148.149802) " points="335.113395 296.299603 104.66019 129.112 239.160172 -2.84217094e-14"></polygon>
+                <polygon id="Triangle-Copy-3" fill="#E7EAEA" transform="translate(421.602223, 155.500000) scale(-1, -1) translate(-421.602223, -155.500000) " points="335.113395 255 508.09105 143.812397 419.103576 56"></polygon>
+                <polygon id="Triangle" fill="#EEEDE7" transform="translate(778.304957, 515.383094) scale(-1, -1) rotate(30.000000) translate(-778.304957, -515.383094) " points="821.709491 373.201244 882.804957 657.564945 673.804957 657.564945"></polygon>
+                <polygon id="Triangle-Copy-9" fill="#EEE3E3" transform="translate(691.951364, 263.598093) scale(-1, -1) rotate(30.000000) translate(-691.951364, -263.598093) " points="777.1759 322.870064 788.485486 204.326122 595.417242 230.809071"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#DBE4E9" transform="translate(469.584736, 460.531850) scale(-1, -1) rotate(30.000000) translate(-469.584736, -460.531850) " points="358.298881 407.543887 580.870592 460.174754 388.844023 513.519814"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#D7E1F6" transform="translate(452.678178, 489.814868) scale(-1, -1) rotate(30.000000) translate(-452.678178, -489.814868) " points="341.392323 470.640021 563.964033 523.270888 560.255441 456.358848"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#DAE6EF" transform="translate(408.572841, 569.916145) scale(-1, -1) rotate(30.000000) translate(-408.572841, -569.916145) " points="299.141282 642.163708 437.541581 497.668583 518.0044 627.882535"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#ECF1F4" transform="translate(433.111381, 607.876967) scale(-1, -1) rotate(30.000000) translate(-433.111381, -607.876967) " points="363.911231 700.730295 502.31153 556.23517 478.518041 515.023638"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#E9EBF6" transform="translate(279.003814, 503.354672) scale(-1, -1) rotate(30.000000) translate(-279.003814, -503.354672) " points="395.525879 445.652607 162.481748 438.247696 242.944567 568.461648"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#E3E6FA" transform="translate(221.417449, 603.097181) scale(-1, -1) rotate(30.000000) translate(-221.417449, -603.097181) " points="337.939515 660.567845 104.895384 653.162934 216.651738 545.626517"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#EDEEF6" transform="translate(288.037147, 645.835309) scale(-1, -1) rotate(30.000000) translate(-288.037147, -645.835309) " points="213.739444 635.796406 250.578497 699.603517 362.334851 592.067101"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#EBECF9" transform="translate(231.180697, 688.563537) scale(-1, -1) rotate(30.000000) translate(-231.180697, -688.563537) " points="129.007978 743.956589 333.353417 633.170484 277.603384 700.227284"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#DBDEEC" transform="translate(216.813064, 429.347993) scale(-1, -1) rotate(30.000000) translate(-216.813064, -429.347993) " points="242.47302 338.649638 347.202459 520.046347 86.4236687 463.460953"></polygon>
+                <polygon id="Triangle-Copy-4" fill="#DCE0ED" transform="translate(193.501726, 330.106779) scale(-1, -1) rotate(30.000000) translate(-193.501726, -330.106779) " points="-5.80634385 289.416072 0.48014545 354.839763 392.809796 370.797486"></polygon>
+                <polygon id="Triangle-Copy-11" fill="#EDE4E4" transform="translate(490.558859, 247.229409) scale(-1, -1) rotate(30.000000) translate(-490.558859, -247.229409) " points="404.780755 273.674232 544.120569 204.112479 576.336964 290.34634"></polygon>
+                <polygon id="Triangle-Copy-5" fill="#E6EFFB" transform="translate(613.518501, 542.791903) scale(-1, -1) rotate(30.000000) translate(-613.518501, -542.791903) " points="668.779321 489.80394 527.71254 502.721918 699.324463 595.779867"></polygon>
+            </g>
+        </g>
+        <g id="antarct" transform="translate(-61.000000, 50.000000)" fill-rule="nonzero">
+            <path d="M715.69316,230.416957 L604.483281,330.796471 L560.757648,182.343832 C571.895216,130.094317 587.270823,107.012403 606.884469,113.098092 C626.498114,119.18378 662.767678,158.290069 715.69316,230.416957 Z" id="Triangle-Copy-3" fill="#D5F4FD" transform="translate(638.225404, 221.471125) scale(-1, -1) translate(-638.225404, -221.471125) "></path>
+            <polygon id="Triangle-Copy" fill="#E5EFF7" points="691.535103 231.392679 934.266803 122.422063 784.90718 0.788432366 683.36673 200"></polygon>
+            <polygon id="Triangle-Copy" fill="#AACDEF" points="832.191997 86.7710656 934.266803 122.422063 784.90718 0.788432366"></polygon>
+            <polygon id="Triangle-Copy-2" fill="#D1F1FA" transform="translate(649.322935, 410.000000) scale(-1, -1) translate(-649.322935, -410.000000) " points="543 285 755.64587 535 585.866917 535 569.568035 387.947767"></polygon>
+            <polygon id="Triangle-Copy" fill="#A7CEF0" points="683.362323 200 819.499819 357.971014 896.008193 450 726.229241 450 709.930358 302.947767"></polygon>
+            <polygon id="Triangle-Copy" fill="#DEDAE7" points="683.362323 200 925.499191 269.363303 824.794564 365.945884"></polygon>
+            <polygon id="Triangle-Copy" fill="#F2F5F6" points="683.362323 200 832.118235 86.6607336 1108.63394 323.8325"></polygon>
+            <polygon id="Triangle-Copy" fill="#F7FFFF" points="1077.38257 188.916872 832.118235 86.6607336 1108.63394 323.8325"></polygon>
+            <polygon id="Triangle-Copy" fill="#E6EDF3" points="1077.38257 188.916872 1195.55362 147.827114 1240.82842 288 1092.23443 257.228923"></polygon>
+            <polygon id="Triangle-Copy" fill="#C7D9E9" points="1108.50268 323.134248 1284.72376 416.649651 1240.82842 288 1092.23443 257.228923"></polygon>
+            <polygon id="Triangle-Copy" fill="#7498C1" points="1296.00282 327 1195.55362 147.827114 1240.82842 288 1284.59896 416.789038"></polygon>
+            <polygon id="Triangle-Copy" fill="#A9CBF1" points="1296.00282 327 1410.66019 351.825079 1344.29565 450 1284.59896 416.789038"></polygon>
+            <polygon id="Triangle-Copy" fill="#99B8DB" points="1421 371.624194 1410.66019 351.825079 1344.29565 450 1421 450"></polygon>
+            <polygon id="Triangle-Copy" fill="#63BBDF" points="1296.00282 327 1410.66019 351.825079 1195.47214 147.777033"></polygon>
+            <polygon id="Triangle-Copy" fill="#F3F2E8" points="1077.38257 188.916872 832.118235 86.6607336 1100.57093 96.0655261"></polygon>
+            <polygon id="Triangle-Copy" fill="#DEDAE7" points="1077.38257 188.916872 1128.19854 171.250947 1100.57093 96.0655261"></polygon>
+            <polygon id="Triangle-Copy" fill="#DEDAE7" points="1077.38257 188.916872 1195.75006 147.846599 1085.29419 158.057228"></polygon>
+            <polygon id="Triangle-Copy" fill="#63BBDF" points="865.586777 66.2996033 832.118235 86.6607336 1100.57093 96.0655261"></polygon>
+            <polygon id="Triangle" fill="#F4F5ED" points="934.362323 229.082186 1343.52441 450 735 450"></polygon>
+            <polygon id="Triangle" fill="#D5F4FD" points="934.362323 229.082186 1343.52441 450 911.738602 450 965.158902 330.484564"></polygon>
+            <polygon id="Triangle" fill="#63BBDF" points="934.362323 229.082186 1343.52441 450 1012.96288 450 1016.88082 327"></polygon>
+            <polygon id="Triangle" fill="#7498C1" points="934.362323 229.082186 1347.24123 450 1222.10639 450"></polygon>
+            <polygon id="Triangle-Copy" fill="#D5F4FD" points="461.5 48 726 450 197 450"></polygon>
+            <polygon id="Triangle-Copy-4" fill="#DFEBF5" points="461.526164 48.0155944 726.5 450 517.071239 450 517.071239 273.441183"></polygon>
+            <polygon id="Triangle-Copy-6" fill="#9FB7D3" points="400 235 560.980072 417.149745 639.270419 450 180 450 261.855501 353.795982"></polygon>
+            <polygon id="Triangle-Copy-5" fill="#F3F2E8" points="400 235 521.757648 450 180 450 261.855501 353.795982"></polygon>
+            <polygon id="Triangle-Copy-3" fill="#CBE2F6" points="461.51888 48.0113985 726.5 450 639.34117 450 598.121248 292.975084"></polygon>
+            <polygon id="Triangle" fill="#B2EDED" points="82 383 164 480 0 480"></polygon>
+            <polygon id="Triangle-Copy-2" fill="#A7CEF0" points="82 383 305.930009 479.85871 164.000738 479.85871"></polygon>
+            <polygon id="Triangle" fill="#D5FDFE" points="262 353 486 450 38 450"></polygon>
+            <polygon id="Triangle-Copy-2" fill="#AFC3C3" points="262 353 485.930009 449.85871 340.975835 450"></polygon>
+            <polygon id="Triangle" fill="#F5F8F4" points="262 353 344 450 180 450"></polygon>
+        </g>
+    </g>
+</svg>
